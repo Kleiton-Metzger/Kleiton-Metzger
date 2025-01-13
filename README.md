@@ -20,6 +20,8 @@ I'm a passionate Software Engineer with a keen interest in developing innovative
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330&labelColor=000000&logoWidth=30"><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000&logoWidth=30"><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000&logoWidth=30">
+      <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white&labelColor=000000&logoWidth=30">
+
     </td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000&logoWidth=30"><br>
@@ -38,7 +40,6 @@ I'm a passionate Software Engineer with a keen interest in developing innovative
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&logoWidth=30"><br>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000000&logoWidth=30"><br>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&logoWidth=30"><br>
-      <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white&labelColor=000000&logoWidth=30">
     </td>
   </tr>
 </table>
