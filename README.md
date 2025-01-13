@@ -58,7 +58,7 @@ Este projeto é um portal de informações para o Núcleo de Estudantes Santomen
 
 Desenvolvido com React, o portal fornece informações detalhadas sobre as escolas do IPB, plataformas online e serviços centrais.
 
-### [Pizzaria R&R - Website](https://github.com/Kleiton-Metzger/project2)
+### [Pizzaria R&R - Website](https://github.com/Kleiton-Metzger/rr_pizza)
 O Pizzaria R&R Website é uma aplicação web moderna e robusta desenvolvida para otimizar o atendimento e gestão de pedidos da pizzaria. Este projeto será desenvolvido com uma abordagem modular, utilizando as mais recentes tecnologias para garantir desempenho, escalabilidade e facilidade de manutenção.
 
 ## 🤝 Let's Connect!
